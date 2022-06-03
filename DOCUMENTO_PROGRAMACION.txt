@@ -2,4 +2,5 @@ Soy programador autodidacta.
 Especialista en PYTHON.
 Egresado de MisionTic 2022.
 Ademas soy ingeniero electronico.
+Estoy aprendiendo Git y GitHub.
 
